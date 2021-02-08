@@ -1,0 +1,24 @@
+Dear [[TITLE]] [[FIRST_NAME]] [[LAST_NAME]],
+Alsalam Alaikum
+
+Your record in this course is as follows:
+
+ID: [[ID_NUMBER]]
+HW: [[HW]]
+Quizzes: [[QUIZZES]]
+Lab: [[LAB]]
+Midterm: [[MIDTERM]]
+Class Tests: [[CLASS_TESTS]]
+Final: [[FINAL]]
+Total: [[TOTAL]]
+
+Your assigned letter grade for this course is [[LETTER_GRADE]]. 
+
+Regards
+Your ICS201 Instructors
+
+
+
+
+
+
